@@ -1,6 +1,6 @@
 # Django Course Project
 
-This repository contains a **Django** project created as part of a learning course. It serves as a practice environment to understand Django fundamentals, including models, views, templates, and more.  
+This repository contains a **Django** project created as part of a learning course. It serves as a practice environment to understand Django fundamentals, including models, views, templates and more.  
 
 ## 🚀 Setup Instructions  
 
