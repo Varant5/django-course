@@ -1,0 +1,5 @@
+.env*
+ebextensions/
+django_my_site/
+blog/migrations/
+staticfiles/
